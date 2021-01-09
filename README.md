@@ -9,7 +9,7 @@ In this work, I demonstrate a CNN that is indeed powerful by applying it beyond 
 End to End Learning for Self-Driving Cars
 
 - [https://arxiv.org/pdf/1604.07316v1.pdf](https://arxiv.org/pdf/1604.07316v1.pdf)
-#Read More
+# Read More
 End-to-End Deep Learning Approach for Autonomous Driving: Imitation Learning
 https://chingisoinar.medium.com/end-to-end-deep-learning-approach-for-autonomous-driving-imitation-learning-f215d534715c
 
