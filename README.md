@@ -40,3 +40,5 @@ Duckietown simulator is used for training Reinforcement Learning agents and perf
 - duckietown_il/ - contains scripts for training implemented in both Pytorch and Keras, located in Pytorch/ and Keras/ respecitvely.
 - In  duckietown_il/Pytorch/pytorch_model.py there are two models; however, CNNcar is the proposed DAVE-2 architecture.
 - logger/log.py is a script for getting observation-action pair of data while testing a RL agent.
+# Results
+<iframe src="https://giphy.com/embed/7ncThNUXaq1rN04Luo" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/7ncThNUXaq1rN04Luo">via GIPHY</a></p>
